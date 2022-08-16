@@ -1,0 +1,8 @@
+{
+    "schedule": "0 0 * * SUN",
+    "sendsafely_space_name": "company_y_report",
+    "notifications": {
+        "send_email_to_author": "TRUE",
+        "author_email": "gg@gg.com"
+    }
+}
